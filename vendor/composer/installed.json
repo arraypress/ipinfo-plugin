@@ -1,0 +1,64 @@
+{
+    "packages": [
+        {
+            "name": "arraypress/ipinfo",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/arraypress/ipinfo.git",
+                "reference": "448ea3470e9fbc4b3cf5cf152447231e15753863"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/arraypress/ipinfo/zipball/448ea3470e9fbc4b3cf5cf152447231e15753863",
+                "reference": "448ea3470e9fbc4b3cf5cf152447231e15753863",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4 || ^8.0"
+            },
+            "time": "2024-12-06T22:09:53+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "ArrayPress\\IPInfo\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "David Sherlock",
+                    "homepage": "https://arraypress.com/"
+                }
+            ],
+            "description": "A PHP library for integrating with the IPInfo.io API in WordPress, providing geolocation, ASN data, privacy detection, and hosting information. Features plan-aware responses and WordPress transient caching.",
+            "homepage": "https://github.com/arraypress/ipinfo/",
+            "keywords": [
+                "asn",
+                "geolocation",
+                "hosting-detection",
+                "ip-geolocation",
+                "ip-information",
+                "ip-lookup",
+                "ipinfo",
+                "privacy-detection",
+                "proxy-detection",
+                "vpn-detection",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/arraypress/ipinfo/issues",
+                "source": "https://github.com/arraypress/ipinfo"
+            },
+            "install-path": "../arraypress/ipinfo"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
