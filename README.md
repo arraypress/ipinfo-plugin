@@ -34,12 +34,15 @@ The admin interface allows testing of:
 - WordPress 6.7.1 or later
 - IPInfo.io API token
 
-## Contributions
+## Contributing
 
-Contributions to this library are highly appreciated. Raise issues on GitHub or submit pull requests for bug fixes or new features. Share feedback and suggestions for improvements.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License: GPLv2 or later
+## License
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This project is licensed under the GPL-2.0-or-later License.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+## Support
+
+- [Documentation](https://github.com/arraypress/ipinfo-plugin)
+- [Issue Tracker](https://github.com/arraypress/ipinfo-plugin/issues)

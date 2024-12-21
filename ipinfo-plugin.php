@@ -137,6 +137,7 @@ class Plugin {
             <!-- Settings Form -->
 			<?php $this->render_settings_form(); ?>
 
+            <!-- Settings Form -->
             <hr>
 
             <!-- Test Interface -->
